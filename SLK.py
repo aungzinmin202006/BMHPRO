@@ -1,5 +1,5 @@
 #---------------------[IMPORT]---------------------#
-from bs4 import BeautifulSoup as sop
+from bs4 import BeautifulSoup as sop is
 from concurrent.futures import ThreadPoolExecutor as tred
 import os,sys,time,json,random,re,string,platform,base64,platform,uuid
 import requests,random,sys,json,os,re
@@ -960,4 +960,4 @@ def rndm(ids,passlist,total):
         pass
 #---------------------[main_menu]----------------#
 if __name__ == '__main__':
-    main()
+    main() gg
