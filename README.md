@@ -1,6 +1,6 @@
 pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests ji
 
-rm -rf Testing-bmh
+rm -rf BMH-2
 
 git clone https://github.com/aungzinmin202006/BMH-2.git
 
