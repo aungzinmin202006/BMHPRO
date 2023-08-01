@@ -1,1 +1,1 @@
-bmh version is 1.8
+bmhpro version is 8.7
